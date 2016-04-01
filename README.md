@@ -1,2 +1,0 @@
-# BungeeCMD
-Stuff and things.
