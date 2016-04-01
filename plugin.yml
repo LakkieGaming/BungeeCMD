@@ -1,0 +1,7 @@
+main: lakkie.bungeecmd.BungeeCMD
+version: 1.0
+name: BungeeCMD
+
+commands:
+  bungeecmd:
+    description: Does a command to all servers. Usage /bungeecmd <command>
